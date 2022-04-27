@@ -33,4 +33,5 @@ num < 10 - return Small
 num < 15 - return Medium
 
 num < 20 - return Large
+
 num >= 20 - return Huge
